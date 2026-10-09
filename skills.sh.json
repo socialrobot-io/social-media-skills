@@ -1,0 +1,21 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Publish",
+      "description": "Schedule and publish to 9 networks through the SocialRobot MCP server or REST API.",
+      "skills": ["social-media-manager"]
+    },
+    {
+      "title": "Plan",
+      "description": "Content calendars and best times to post, then schedule after approval.",
+      "skills": ["social-media-content-calendar"]
+    },
+    {
+      "title": "Create",
+      "description": "Image sizes, safe margins, and character limits per network.",
+      "skills": ["social-media-image-sizes"]
+    }
+  ]
+}
